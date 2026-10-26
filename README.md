@@ -64,7 +64,7 @@ Run these commands inside the relevant project directory.
 
 **MD Tawhid**
 
-GitHub: [Tawhid-01](https://github.com/Tawhid-01)
+GitHub: [Tawhid-01](https://github.com/devmilon)
 
 ---
 
